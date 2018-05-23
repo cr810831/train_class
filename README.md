@@ -40,6 +40,17 @@
   - 增加 `/etc/init.d/ssh start`
   - 輸入 `vi /etc/ssh/sshd_config`
   - 修改 `PermitRootLogin without-password` 為 `PermitRootLogin yes`
+### 四、搜尋引擎入侵(Google Hacking)
+* 常用
+  - site: (搜尋特定網址)
+   - inurl: (搜尋特定連結)
+   - intext: (搜尋網頁內文字)
+   - intitle: (搜尋網頁標題)
+   - filetype: | ext: (搜尋特定檔案格式)
+   - link: (搜尋互相連結的網頁)
+   - cache: (顯示網頁在google中的暫存資料)</br>
+* [exploit-db實戰範例](https://www.exploit-db.com/google-hacking-database/)</br>
+* [GoogleHacking基礎教學](http://www.vixual.net/blog/archives/152)
 ### 測驗
     暫無
 ---
